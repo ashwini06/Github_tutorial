@@ -82,6 +82,8 @@ Alrighty, the moment has come when you have to merge your changes from the clean
 
 git merge clean_up
 
+# to remove "clean_up" branch on github repository
+git push origin --delete clean_up
 
 
 
