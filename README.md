@@ -1,4 +1,5 @@
-# Here is the quick and useful commands for a quick-beginner. 
+## Quick and useful commands for a quick-beginner.
+### Following are the sumamry of commands what I learnt as github beginner
 
 ## Useful links 
 https://help.github.com/articles/create-a-repo/
