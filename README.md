@@ -10,6 +10,7 @@ https://try.github.io/levels/1/challenges/1
 
 ### create a directory in local computer
 `mkdir github_test`
+
 `cd github_test`
 
 ### Initialise the git repository
