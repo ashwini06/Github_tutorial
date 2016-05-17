@@ -81,15 +81,15 @@ Alrighty, the moment has come when you have to merge your changes from the clean
 `git merge clean_up`
 
 ### Check the branch 
-git branch
+`git branch`
 
 ### Deleting the git branch
 Move to other branch and delete the branch you wanted to delete
- git branch -d test_v3 
+ `git branch -d test_v3`
 
 ### Deleting the remote branch
 
-git push origin :test_v3
+`git push origin :test_v3`
 
 
 
