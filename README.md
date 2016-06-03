@@ -15,16 +15,21 @@ https://try.github.io/levels/1/challenges/1
 `cd github_test`
 
 ### Initialise the git repository
+
 `git init`
 
 ### check the status
+
 `git status`
 
 ### create files
+
 `touch a.txt b.txt`
+
 `git status`
 
 ### add the new created files
+
 `git add a.txt b.txt`
 
 ### Committing
@@ -60,7 +65,9 @@ Uh oh, looks like there have been some additions and changes to the octocat fami
 When developers are working on a feature or bug they'll often create a copy (aka. branch) of their code they can make separate commits to. Then when they're done they can merge this branch back into their main master branch.
 
 `git branch clean_up`
+
 `git branch`
+
 `git checkout clean_up`
 
 ### Remove all the files
@@ -69,6 +76,7 @@ When developers are working on a feature or bug they'll often create a copy (aka
 
 ### Commiting Branch Changes
 Now that you've removed all the cats you'll need to commit your changes
+
 `git commit -m "removed all text files"`
 
 ### Adding new branches changes to git_repo
@@ -81,10 +89,12 @@ Alrighty, the moment has come when you have to merge your changes from the clean
 `git merge clean_up`
 
 ### Check the branch 
+
 `git branch`
 
 ### Deleting the git branch
 Move to other branch and delete the branch you wanted to delete
+
  `git branch -d test_v3`
 
 ### Deleting the remote branch
