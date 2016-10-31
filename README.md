@@ -1,16 +1,16 @@
-## Useful links 
+# Links 
 https://help.github.com/articles/create-a-repo/
 
 https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
-Quickest-way to learn
+### Online command-line to learn git in 15 mins
 https://try.github.io/levels/1/challenges/1
 
-## Putting your R package on GitHub
+### Putting your R package on GitHub
 
 http://kbroman.org/pkg_primer/pages/github.html
 
-## Software Carpentry boot camp on github 
+### Software Carpentry boot camp on github 
 https://github.com/NelleV/2014-05-19-scilifelab
 
 # Quick and useful commands for a quick-beginner.
