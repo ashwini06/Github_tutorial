@@ -1,6 +1,3 @@
-## Quick and useful commands for a quick-beginner.
-Following are the summary of commands what I learnt as github beginner
-
 ## Useful links 
 https://help.github.com/articles/create-a-repo/
 
@@ -8,6 +5,17 @@ https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
 Quickest-way to learn
 https://try.github.io/levels/1/challenges/1
+
+## Putting your R package on GitHub
+
+http://kbroman.org/pkg_primer/pages/github.html
+
+## Software Carpentry boot camp on github 
+https://github.com/NelleV/2014-05-19-scilifelab
+
+# Quick and useful commands for a quick-beginner.
+Following are the summary of commands what I learnt as github beginner
+
 
 ### create a directory in local computer
 `mkdir github_test`
